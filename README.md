@@ -1,2 +1,2 @@
 # BlockChain-JavaScript
-This is the basic understanding of blockchain using javascript
+This is the basic understanding of blockchain technology using javascript
